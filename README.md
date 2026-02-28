@@ -50,7 +50,6 @@ Navbar dibuat menggunakan Bootstrap 5 dengan fitur:
 ```
 
 Navbar dibuat menggunakan komponen bawaan Bootstrap 5 agar responsif dan mudah diatur. Class navbar-expand-lg memungkinkan menu berubah menjadi toggle pada layar kecil, sedangkan fixed-top membuat navbar tetap berada di bagian atas saat halaman di-scroll. Sistem collapse bekerja melalui atribut data-bs-toggle dan data-bs-target yang terhubung dengan id navbarNav. Class ms-auto digunakan untuk meratakan menu ke sisi kanan. Warna dan border disesuaikan dengan tema dark neon menggunakan bg-black dan border-success.
----
 
 ## 2. Hero Section (Home)
 <img width="768" height="896" alt="image" src="https://github.com/user-attachments/assets/5d8df0c2-1024-40f1-919f-84aa2625f71f" />
@@ -76,7 +75,6 @@ Fitur:
 </section>
 ```
 Hero section berfungsi sebagai halaman utama yang menampilkan identitas dan deskripsi singkat. Utility class Bootstrap seperti d-flex, align-items-center, dan justify-content-center digunakan untuk memposisikan konten tepat di tengah layar. Class display-3 memperbesar ukuran judul agar lebih menonjol, sedangkan btn btn-success digunakan untuk membuat tombol dengan warna hijau sesuai tema.
----
 
 ## 3. About Me Section
 <img width="747" height="743" alt="image" src="https://github.com/user-attachments/assets/95f9a1e6-bc48-4504-8f1d-37fc1f155d60" />
