@@ -1,6 +1,6 @@
 # Portofolio_Web
-Nama: Jemis Movid (2409116070).
-\
+Nama: Jemis Movid (2409116070)
+
 # 🎵 Music Portfolio Website - Movid
 
 ## Deskripsi Project
